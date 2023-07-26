@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DOTSnBOXES</string>
+    <string-array name="playerColors">
+        <item>#ff5f57</item>
+        <item>#01cfff</item>
+    </string-array>
+<!--    #60C5FF-->
+    <string name="htp1">• In this game, participants alternate connecting two adjacent dots either horizontally or vertically using a line. The dots can be joined by touching between them.</string>
+    <string name="htp2">• If a player manages to complete the fourth side of a 1×1 box, they occupy that box and earn an extra turn.</string>
+    <string name="htp3">• Once all the boxes have been filled, the game concludes, and the player with the highest number of occupied boxes emerges as the winner.</string>
+</resources>
